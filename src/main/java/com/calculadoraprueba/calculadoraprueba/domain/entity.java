@@ -1,7 +1,6 @@
-package domain;
+package com.calculadoraprueba.calculadoraprueba.domain;
 
-public class calculadora {
-
+public class entity {
     private int valor1;
     private int valor2;
     private double resultado;
